@@ -2,7 +2,9 @@
 
 ![Ozer Betar](assets/logo.png)
 
-El asistente de Betar Uruguay. Responde preguntas sobre la tnuá (ideología, Ruaj Betarí, Jabotinsky, historia, símbolos, Shoá, conflicto árabe-israelí) y ayuda a preparar peulot y sijot.
+Herramienta para los educadores de Betar Uruguay: madrijim, bogrim y la Hanagá, mayores de 18. Responde consultas sobre la ideología y la historia de Betar (Ruaj Betarí, Jabotinsky, símbolos, Shoá, conflicto árabe-israelí) y ayuda a preparar peulot, sijot y material educativo.
+
+No está pensada para que la usen los janijim: ellos reciben el contenido a través de su madrij, en la peulá.
 
 ## Fuentes
 
@@ -16,7 +18,7 @@ Si las dos fuentes se contradicen en algo ideológico, vale lo que dice Mishnat 
 Preguntale directamente, por ejemplo:
 
 - "¿Qué es el Hadar betarí?"
-- "Explicale el Monismo a un janij de 12 años"
+- "¿Cómo le explico el Monismo a una kvutzá de 12 años?"
 - "Preparame una peulá de 1 hora sobre Ki Sheket Hu Refesh para janijim de liceo"
 - "¿Qué dice Betar sobre el Shtei Guedot?"
 - "¿Qué hizo Betar durante la Shoá?"

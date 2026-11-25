@@ -1,7 +1,7 @@
 {
   "name": "ozer-betar",
-  "version": "0.1.0",
-  "description": "Ozer Betar: el asistente de Betar Uruguay. Responde preguntas sobre la tnuá basándose en Mishnat Betar y el Libro Azul. En temas ideológicos, Mishnat Betar tiene prioridad.",
+  "version": "0.2.0",
+  "description": "Ozer Betar: herramienta para madrijim, bogrim y la Hanagá de Betar Uruguay (mayores de 18). Responde consultas sobre la ideología de Betar y ayuda a preparar peulot, basándose en Mishnat Betar y el Libro Azul. En temas ideológicos, Mishnat Betar tiene prioridad.",
   "author": {
     "name": "Joaquín Salomón"
   },
