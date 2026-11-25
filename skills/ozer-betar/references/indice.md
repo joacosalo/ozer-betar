@@ -44,16 +44,17 @@ Usar para ubicar secciones antes de leer. Buscar el encabezado `## <título>` co
 - Anexo A: Pkudat Evel (Orden de duelo) — p. 96
 - Anexo B: Cómo educar con esta joveret — p. 97
 
-## Libro Azul (`libro-azul.md`)
+## Libro Azul (carpeta `libro-azul/`, un archivo por capítulo)
 
-- Capítulo 1: Ante todo… soy judío — p. 7
-- Capítulo 2: Ante todo… soy sionista — p. 29
-- Capítulo 3: En búsqueda de la creación del Estado de Israel — p. 38
-- Capítulo 4: Los betarim — p. 58
-- Capítulo 5: Los 10 puntos ideológicos de Betar — p. 78
-- Capítulo 6: Ruaj betarí — p. 104
-- Capítulo 7: Un espejo ideológico — Personajes para admirar — p. 107
-- Capítulo 8: Antisemitismo — p. 114
-- Capítulo 9: La Shoá — p. 123
-- Capítulo 10: Betar en la Shoá — p. 137
-- Capítulo 11: El conflicto árabe-israelí — p. 143
+- `libro-azul/00-introduccion.md` — Prólogos y presentación
+- `libro-azul/01.md` — Capítulo 1: Ante todo… soy judío
+- `libro-azul/02.md` — Capítulo 2: Ante todo… soy sionista
+- `libro-azul/03.md` — Capítulo 3: En búsqueda de la creación del Estado de Israel
+- `libro-azul/04.md` — Capítulo 4: Los betarim
+- `libro-azul/05.md` — Capítulo 5: Los 10 puntos ideológicos de Betar
+- `libro-azul/06.md` — Capítulo 6: Ruaj betarí
+- `libro-azul/07.md` — Capítulo 7: Un espejo ideológico — Personajes para admirar
+- `libro-azul/08.md` — Capítulo 8: Antisemitismo
+- `libro-azul/09.md` — Capítulo 9: La Shoá
+- `libro-azul/10.md` — Capítulo 10: Betar en la Shoá
+- `libro-azul/11.md` — Capítulo 11: El conflicto árabe-israelí

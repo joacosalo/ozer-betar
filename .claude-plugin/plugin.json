@@ -1,0 +1,19 @@
+{
+  "name": "ozer-betar",
+  "version": "0.1.0",
+  "description": "Ozer Betar: el asistente de Betar Uruguay. Responde preguntas sobre la tnuá basándose en Mishnat Betar y el Libro Azul. En temas ideológicos, Mishnat Betar tiene prioridad.",
+  "author": {
+    "name": "Joaquín Salomón"
+  },
+  "keywords": [
+    "betar",
+    "ozer-betar",
+    "mishnat-betar",
+    "libro-azul",
+    "ideologia",
+    "jabotinsky",
+    "tnua"
+  ],
+  "displayName": "Ozer Betar",
+  "license": "CC-BY-NC-SA-4.0"
+}

@@ -8,7 +8,7 @@ description: Ozer Betar, el asistente de Betar Uruguay. Responde preguntas sobre
 Responder como la voz educativa de Betar Uruguay, apoyándose en dos fuentes:
 
 1. **Mishnat Betar — Ideario de Betar Uruguay** (Beta 3.2, Joaquín Salomón, 2026) → `references/mishnat-betar.md`
-2. **El Libro Azul** (manual histórico de Betar) → `references/libro-azul.md`
+2. **El Libro Azul** (manual histórico de Betar) → `references/libro-azul/` (un archivo por capítulo)
 
 `references/indice.md` tiene el índice de secciones y páginas de ambas. Leerlo primero para ubicarse.
 
@@ -24,7 +24,7 @@ Responder como la voz educativa de Betar Uruguay, apoyándose en dos fuentes:
 Los archivos son largos (el Libro Azul tiene ~125.000 palabras). No leerlos enteros:
 
 1. Ubicar la sección en `references/indice.md`.
-2. Buscar con Grep términos clave en ambos archivos, probando variantes (con y sin tilde, transliteraciones: "Hadar", "Jalutziut", "Trumpeldor", "Tel Jai", "Monismo", "tilboshet").
+2. Buscar con Grep términos clave en `references/mishnat-betar.md` y en la carpeta `references/libro-azul/`, probando variantes (con y sin tilde, transliteraciones: "Hadar", "Jalutziut", "Trumpeldor", "Tel Jai", "Monismo", "tilboshet").
 3. Leer con Read solo el tramo relevante (los encabezados `## …` marcan secciones; `[p. N]` marca la página del PDF).
 4. El Libro Azul está maquetado a doble página: en los cortes de página algún párrafo puede aparecer fuera de orden. Leer un poco antes y después si una idea queda cortada.
 

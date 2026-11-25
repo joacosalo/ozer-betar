@@ -1,0 +1,14 @@
+{
+  "name": "betar-uruguay",
+  "description": "Plugins de Betar Uruguay",
+  "owner": {
+    "name": "Joaquín Salomón"
+  },
+  "plugins": [
+    {
+      "name": "ozer-betar",
+      "source": "./",
+      "description": "Ozer Betar: el asistente de Betar Uruguay. Responde preguntas sobre la tnuá basándose en Mishnat Betar y el Libro Azul. En temas ideológicos, Mishnat Betar tiene prioridad."
+    }
+  ]
+}

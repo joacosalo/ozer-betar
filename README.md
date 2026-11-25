@@ -23,4 +23,4 @@ Preguntale directamente, por ejemplo:
 
 ## Actualizar las fuentes
 
-Los textos están en `skills/ozer-betar/references/`. Cuando salga una versión nueva de Mishnat Betar, hay que reemplazar `mishnat-betar.md` (y actualizar `indice.md`).
+Los textos están en `skills/ozer-betar/references/`. El Libro Azul está dividido en un archivo por capítulo dentro de `libro-azul/`. Cuando salga una versión nueva de Mishnat Betar, hay que reemplazar `mishnat-betar.md` (y actualizar `indice.md`).
